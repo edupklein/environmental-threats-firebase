@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "977430202468",
+    "firebase_url": "https://trabalho-ameacas-ambientais-default-rtdb.firebaseio.com",
+    "project_id": "trabalho-ameacas-ambientais",
+    "storage_bucket": "trabalho-ameacas-ambientais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977430202468:android:78690884736f40320f3771",
+        "android_client_info": {
+          "package_name": "com.example.ameacas_ambientais_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqGX99XzW9waNJIxxWb8KkUVg_rcBNqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
